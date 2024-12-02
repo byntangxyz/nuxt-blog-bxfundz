@@ -26,10 +26,16 @@ function isActive(path: string) {
         <li>
           <NuxtLink to="/blogs" :class="{ underline: isActive('/blogs') }"> Blogs </NuxtLink>
         </li>
+
         <li>
           <NuxtLink to="/categories" :class="{ underline: isActive('/categories') }">
             Categories
           </NuxtLink>
+        </li>
+        <li>
+          <NuxtLink href="https://byntangxyz.my.id/" target="_blank" rel="noopener noreferrer"
+            >Website</NuxtLink
+          >
         </li>
         <li title="About Me">
           <NuxtLink

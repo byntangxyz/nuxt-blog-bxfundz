@@ -1,51 +1,51 @@
 export const navbarData = {
-  homeTitle: "Riyad's Blog",
+  homeTitle: "BxFundz's Blog",
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
+  author: 'byntangxyz',
   aboutAuthor:
-    'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
+    'Hi! I am byntangxyz, a Tech enthusiast, Web Developers and A.I & Network engineer. Currently attends SMKN2 Depok.',
   authorInterest:
-    "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
+    "Aku hanya manusia biasa makan nasi (jokowi said). Saya baru-baru ini tertarik pada Web Development dan sedikit A.I engineering. Kedepannya mungkin saya akan berbagi info, tips, tutor atau rekomendasi di blog ini",
   aboutTheSite:
-    "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.",
+    "Personal blog site byntangxyz",
 }
 
 export const homePage = {
-  title: 'Welcome To My Blog Site',
+  title: 'Welcome To My BxFundz Blog',
   description:
-    'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+    'Dapatkan informasi random dan sesuatu yang mungkin berguna disini! Blog ini akan ada konten jika aku gabut.😁',
 }
 
 export const blogsPage = {
   title: 'All Blogs',
-  description: 'Here you will find all the blog posts I have written & published on this site.',
+  description: 'Disini berisi blog gabut buatan saya, "Maaf kalo salah".',
 }
 
 export const categoryPage = {
   title: 'Categories',
   description:
-    'Blow this category is generated from all the tags are mentioned in the different blog post',
+    'Dibawah ini adalah beberapa kategori yang saya kelompokan sesuai temanya, "Maaf kalo salah".',
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
+  title: 'Bintang Maulana M',
+  description: 'A.I & Network Engineer, Tech Ethusiast, Website Developer.',
   aboutMe:
-    "Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!",
+    "Halo dunia! saya adalah manusia biasa! gatau sya mau ngetik apa.",
 }
 
 export const seoData = {
-  title: `Riyad's Blog | Riyads Blog`,
-  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
-  description: `Hi I am Riyad. A Software Engineer at AppsCode, with over 2.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
-  twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
+  title: `BxFundz Blog | BxFundz Blog`,
+  ogTitle: `Blog GJLS - BxFundzs Blog | BxFundz's Blog`,
+  description: `Hi I am Bintang. - BxFundzs Blog | BxFundz's Blog`,
+  twitterDescription: `BxFundz's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - BxFundzs Blog | BxFundz's Blog`,
   image:
     'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
+  mySite: 'https://bxfundz.vercel.app',
   twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+  mailAddress: 'bintangmurtifandy@gmail.com',
 }
 
 export const siteMetaData = [

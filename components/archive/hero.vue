@@ -15,9 +15,7 @@ import { blogsPage } from '~/data'
           {{ blogsPage.description }}
         </p>
       </div>
-      <div class="px-6 justify-self-center">
-        <LogoDogpow />
-      </div>
+      <div class="px-6 justify-self-center"></div>
     </div>
   </div>
 </template>
