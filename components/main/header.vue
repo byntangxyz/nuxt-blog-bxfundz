@@ -37,15 +37,7 @@ function isActive(path: string) {
             >Website</NuxtLink
           >
         </li>
-        <li title="About Me">
-          <NuxtLink
-            to="/about"
-            aria-label="About me"
-            :class="{ underline: $route.path === '/about' }"
-          >
-            About
-          </NuxtLink>
-        </li>
+
         <li>
           <ClientOnly>
             <button

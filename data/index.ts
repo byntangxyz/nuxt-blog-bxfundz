@@ -13,7 +13,7 @@ export const footerData = {
 }
 
 export const homePage = {
-  title: 'Welcome To My BxFundz Blog',
+  title: 'Welcome To BxFundz Blog',
   description:
     'Dapatkan informasi random dan sesuatu yang mungkin berguna disini! Blog ini akan ada konten jika aku gabut.😁',
 }
@@ -52,6 +52,10 @@ export const siteMetaData = [
   {
     name: 'description',
     content: seoData.description,
+  },
+  {
+    name: "google-adsense-account",
+    content: "ca-pub-8739123720921732",
   },
   // Test on: https://developers.facebook.com/tools/debug/ or https://socialsharepreview.com/
   { property: 'og:site_name', content: seoData.mySite },
