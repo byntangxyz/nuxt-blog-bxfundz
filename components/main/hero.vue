@@ -15,9 +15,7 @@ import { homePage } from '~/data'
           {{ homePage.description }}
         </p>
       </div>
-      <div class="px-6 justify-self-center">
-        
-      </div>
+      <div class="px-6 justify-self-center"></div>
     </div>
   </div>
 </template>
