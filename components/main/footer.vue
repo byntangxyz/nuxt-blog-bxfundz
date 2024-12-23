@@ -14,19 +14,7 @@ const path = computed(() => route.fullPath.replace('/', ''))
         <FooterConnect />
       </div>
 
-      <div class="border-t dark:border-gray-800 mt-5 text-center p-2">
-        <div id="ads-container">
-          <ins
-            class="adsbygoogle"
-            style="display: block"
-            data-ad-client="ca-pub-8739123720921732"
-            data-ad-slot="5325841304"
-            data-ad-format="auto"
-            data-full-width-responsive="true"
-          ></ins>
-        </div>
-        ©2024 byntangxyz. No Right is reserved.
-      </div>
+      <div>©2024 byntangxyz. No Right is reserved.</div>
     </div>
   </div>
 </template>
@@ -44,11 +32,3 @@ const path = computed(() => route.fullPath.replace('/', ''))
   filter: blur(1rem);
 }
 </style>
-
-<script>
-export default {
-  mounted() {
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  },
-}
-</script>
